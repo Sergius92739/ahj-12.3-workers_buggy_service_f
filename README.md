@@ -2,7 +2,7 @@
 
 #### Deployment: <a href="https://sergius92739.github.io/ahj-12.3-workers_buggy_service_f/">Github Pages</a>
 #### Backend: <a href="https://github.com/Sergius92739/ahj-12.3-workers_buggy_service_b">Repository</a>
-#### Server: <a href="https://ahj-12-3-workers-buggy-service.herokuapp.com/">Heroku</a>
+#### Server: <a href="https://ahj-12-3.sergem.xyz/">Облачный сервер</a>
 
 ---
 
